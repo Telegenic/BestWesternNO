@@ -124,7 +124,7 @@
 			"URL": "",
 			"CARD": "TBD",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.12:10001",
+			"REMOTE_URL": "udp://@225.1.1.11:10005",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
         },
         {
@@ -132,7 +132,7 @@
 			"URL": "",
 			"CARD": "Charge!",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.12:10002",
+			"REMOTE_URL": "udp://@225.1.1.11:10006",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -140,7 +140,7 @@
 			"URL": "",
 			"CARD": "NBC16",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.12:10003",
+			"REMOTE_URL": "udp://@225.1.1.11:10007",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -148,7 +148,7 @@
 			"URL": "",
 			"CARD": "CW Plus",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.12:10004",
+			"REMOTE_URL": "udp://@225.1.1.11:10008",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -156,7 +156,7 @@
 			"URL": "",
 			"CARD": "comet",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.13:10001",
+			"REMOTE_URL": "udp://@225.1.1.11:10009",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -164,7 +164,7 @@
 			"URL": "",
 			"CARD": "KEVD",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.13:10002",
+			"REMOTE_URL": "udp://@225.1.1.11:10010",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -172,7 +172,7 @@
 			"URL": "",
 			"CARD": "PBS OPS",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.13:10003",
+			"REMOTE_URL": "udp://@225.1.1.11:10011",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -180,7 +180,7 @@
 			"URL": "",
 			"CARD": "PBS OPBPlus",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.13:10004",
+			"REMOTE_URL": "udp://@225.1.1.11:10012",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -188,7 +188,7 @@
 			"URL": "",
 			"CARD": "PBS OPBKids",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.14:10001",
+			"REMOTE_URL": "udp://@225.1.1.11:10013",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -196,7 +196,7 @@
 			"URL": "",
 			"CARD": "PBS OPB-FM",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.14:10002",
+			"REMOTE_URL": "udp://@225.1.1.11:10014",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -204,7 +204,7 @@
 			"URL": "",
 			"CARD": "FOX KLSR",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.14:10003",
+			"REMOTE_URL": "udp://@225.1.1.11:10015",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		},
         {
@@ -212,7 +212,7 @@
 			"URL": "",
 			"CARD": "KEVD",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.14:10004",
+			"REMOTE_URL": "udp://@225.1.1.11:10016",
 			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		}
         
