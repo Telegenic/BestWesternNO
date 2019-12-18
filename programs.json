@@ -117,7 +117,7 @@
 			"CARD": "CBS14",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10004",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/blob/master/ESPN.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
         },
         {
 			"ID": 5,
