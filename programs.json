@@ -93,7 +93,7 @@
 			"CARD": "Tony CH",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10001",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/TKfox.JPG"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/NBC.jpg"
 		},
 		{
 			"ID": 2,
@@ -101,7 +101,7 @@
 			"CARD": "Sun CH",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10002",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/CBS.JPG"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/CBS.jpg"
 		},
 		{
 			"ID": 3,
@@ -109,7 +109,7 @@
 			"CARD": "ION",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10003",
-			"THUMBNAIL": "https://github.com/Telegenic/BestWesternNO/blob/master/ABC.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/ABC.jpg"
 		},
 		{
 			"ID": 4,
@@ -117,7 +117,7 @@
 			"CARD": "CBS14",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10004",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/FOX.jpg"
         },
         {
 			"ID": 5,
