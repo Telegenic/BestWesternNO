@@ -109,7 +109,7 @@
 			"CARD": "ION",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10003",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
+			"THUMBNAIL": "https://github.com/Telegenic/BestWesternNO/blob/master/ABC.jpg"
 		},
 		{
 			"ID": 4,
@@ -117,7 +117,7 @@
 			"CARD": "CBS14",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10004",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/blob/master/ABC.jpg"
         },
         {
 			"ID": 5,
