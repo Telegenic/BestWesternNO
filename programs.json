@@ -125,7 +125,7 @@
 			"CARD": "TBD",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10005",
-			"THUMBNAIL": "https://github.com/Telegenic/BestWesternNO/blob/master/ESPN.JPG"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/ESPN.JPG"
         },
         {
 			"ID": 6,
@@ -133,7 +133,7 @@
 			"CARD": "Charge!",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10006",
-			"THUMBNAIL": "https://github.com/Telegenic/BestWesternNO/blob/master/ESPN.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/ESPN.JPG"
 		},
         {
 			"ID": 7,
