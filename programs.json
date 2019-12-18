@@ -117,7 +117,7 @@
 			"CARD": "CBS14",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10004",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/blob/master/ABC.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/blob/master/ESPN.jpg"
         },
         {
 			"ID": 5,
@@ -125,7 +125,7 @@
 			"CARD": "TBD",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10005",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
+			"THUMBNAIL": "https://github.com/Telegenic/BestWesternNO/blob/master/ESPN.JPG"
         },
         {
 			"ID": 6,
@@ -133,7 +133,7 @@
 			"CARD": "Charge!",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10006",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
+			"THUMBNAIL": "https://github.com/Telegenic/BestWesternNO/blob/master/ESPN.jpg"
 		},
         {
 			"ID": 7,
