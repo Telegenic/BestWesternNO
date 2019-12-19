@@ -108,7 +108,7 @@
 			"URL": "",
 			"CARD": "ION",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10003",
+			"REMOTE_URL": "udp://@225.1.1.11:10006",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/ABC.jpg"
 		},
 		{
@@ -116,104 +116,8 @@
 			"URL": "",
 			"CARD": "CBS14",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10004",
+			"REMOTE_URL": "udp://@225.1.1.11:10002",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/FOX.jpg"
-        },
-        {
-			"ID": 5,
-			"URL": "",
-			"CARD": "TBD",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10005",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/ESPN.JPG"
-        },
-        {
-			"ID": 6,
-			"URL": "",
-			"CARD": "Charge!",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10006",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/ESPN.JPG"
-		},
-        {
-			"ID": 7,
-			"URL": "",
-			"CARD": "NBC16",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10007",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
-		},
-        {
-			"ID": 8,
-			"URL": "",
-			"CARD": "CW Plus",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10008",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
-		},
-        {
-			"ID": 9,
-			"URL": "",
-			"CARD": "comet",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10009",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
-		},
-        {
-			"ID": 10,
-			"URL": "",
-			"CARD": "KEVD",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10010",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
-		},
-        {
-			"ID": 11,
-			"URL": "",
-			"CARD": "PBS OPS",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10011",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
-		},
-        {
-			"ID": 12,
-			"URL": "",
-			"CARD": "PBS OPBPlus",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10012",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
-		},
-        {
-			"ID": 13,
-			"URL": "",
-			"CARD": "PBS OPBKids",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10013",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
-		},
-        {
-			"ID": 14,
-			"URL": "",
-			"CARD": "PBS OPB-FM",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10014",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
-		},
-        {
-			"ID": 15,
-			"URL": "",
-			"CARD": "FOX KLSR",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10015",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
-		},
-        {
-			"ID": 16,
-			"URL": "",
-			"CARD": "KEVD",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10016",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/no_cover.jpg"
 		}
         
     ],
