@@ -1,96 +1,10 @@
 {
 	"ConfigVersion": 1,
-	"BWChannelURLs" : [
-		{
-			"ID": 1,
-			"URL": "/Assets/TV_Tutorial.mp4",
-			"CARD": "TV Tutorial",
-			"LOCAL_URL": "/Assets/TV_Tutorial.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/master/TV_Tutorial.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/TV_Tutorial.jpg"
-		},
-		{
-			"ID": 2,
-			"URL": "/Assets/Hotel_Amenities.mp4",
-			"CARD": "Hotel Amenities",
-			"LOCAL_URL": "/Assets/Hotel_Amenities.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/master/Hotel_Amenities.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/master/Hotel_Amenities.jpg"
-		},
-		{
-			"ID": 3,
-			"URL": "/Assets/Best_Western_Rewards.mp4",
-			"CARD": "Best Western Rewards",
-			"LOCAL_URL": "/Assets/Best_Western_Rewards.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/new/Best_Western_Rewards.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/new/Best_Western_Rewards.jpg"
-		}
-	],
-	"BestOfEugeneURLs" : [
-		{
-			"ID": 1,
-			"URL": "/Assets/Best_Dining_in_Eugene.mp4",
-			"CARD": "Best Dining in Eugene",
-			"LOCAL_URL": "/Assets/Best_Dining_in_Eugene.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/new/Best_Dining_in_Eugene.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/new/Best_Dining_in_Eugene.jpg"
-		},
-		{
-			"ID": 2,
-			"URL": "/Assets/Best_Bar_in_Eugene.mp4",
-			"CARD": "Best Bar in Eugene",
-			"LOCAL_URL": "/Assets/Best_Bar_in_Eugene.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/new/Best_Bar_in_Eugene.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/new/Best_Bar_in_Eugene.jpg"
-		},
-		{
-			"ID": 3,
-			"URL": "/Assets/Best_Scenes_in_Eugene.mp4",
-			"CARD": "Best Scenes in Eugene",
-			"LOCAL_URL": "/Assets/Best_Scenes_in_Eugene.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/new/Best_Scenes_in_Eugene.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/new/Best_Scenes_in_Eugene.jpg"
-		}
-    ],
-    "LocalTVDemoURLs" : [
-		{
-			"ID": 1,
-			"URL": "/Assets/ABC.mp4",
-			"CARD": "ABC",
-			"LOCAL_URL": "/Assets/ABC.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/new/ABC.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/new/ABC.jpg"
-		},
-		{
-			"ID": 2,
-			"URL": "/Assets/CBS.mp4",
-			"CARD": "CBS",
-			"LOCAL_URL": "/Assets/CBS.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/new/CBS.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/new/CBS.jpg"
-		},
-		{
-			"ID": 3,
-			"URL": "/Assets/FOX.mp4",
-			"CARD": "FOX",
-			"LOCAL_URL": "/Assets/FOX.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/new/FOX.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/new/FOX.jpg"
-		},
-		{
-			"ID": 4,
-			"URL": "/Assets/NBC.mp4",
-			"CARD": "NBC",
-			"LOCAL_URL": "/Assets/NBC.mp4",
-			"REMOTE_URL": "https://raw.githubusercontent.com/WindMount/telegenic/new/NBC.mp4",
-			"THUMBNAIL": "https://raw.githubusercontent.com/WindMount/telegenic/new/NBC.jpg"
-		}
-	],
 	"LocalTVURLs" : [
 		{
 			"ID": 1,
 			"URL": "",
-			"CARD": "v54_r9",
+			"CARD": "JSON TEST",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10001",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/NBC.jpg"
@@ -98,7 +12,7 @@
 		{
 			"ID": 2,
 			"URL": "",
-			"CARD": "Sun CH",
+			"CARD": "CBS",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10002",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/CBS.jpg"
@@ -106,7 +20,7 @@
 		{
 			"ID": 3,
 			"URL": "",
-			"CARD": "ION",
+			"CARD": "ABC",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10006",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/ABC.jpg"
@@ -114,45 +28,11 @@
 		{
 			"ID": 4,
 			"URL": "",
-			"CARD": "CBS14",
+			"CARD": "FOX",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10002",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/FOX.jpg"
 		}
         
-    ],
-    "LocalTVTestURLs" : [
-		{
-			"ID": 1,
-			"URL": "",
-			"CARD": "Test 1",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10001",
-			"THUMBNAIL": "https://gitlab.danielg.info/bistro/resource/raw/master/no_cover.jpg"
-		},
-		{
-			"ID": 2,
-			"URL": "",
-			"CARD": "Test 2",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.12:10002",
-			"THUMBNAIL": "https://gitlab.danielg.info/bistro/resource/raw/master/no_cover.jpg"
-		},
-		{
-			"ID": 3,
-			"URL": "",
-			"CARD": "Test 3",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.13:10003",
-			"THUMBNAIL": "https://gitlab.danielg.info/bistro/resource/raw/master/no_cover.jpg"
-		},
-		{
-			"ID": 4,
-			"URL": "",
-			"CARD": "Test 4",
-			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.14:10004",
-			"THUMBNAIL": "https://gitlab.danielg.info/bistro/resource/raw/master/no_cover.jpg"
-        }
-	]
+    			]
 }
