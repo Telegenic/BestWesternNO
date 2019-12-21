@@ -4,7 +4,7 @@
 		{
 			"ID": 1,
 			"URL": "",
-			"CARD": "ABC KEZI",
+			"CARD": "FOX KLSR",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10003",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/FOX.jpg"
@@ -12,7 +12,7 @@
 		{
 			"ID": 2,
 			"URL": "",
-			"CARD": "CBS14",
+			"CARD": "Under Construction",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10002",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC1.jpg"
@@ -20,7 +20,7 @@
 		{
 			"ID": 3,
 			"URL": "",
-			"CARD": "FOX KLSR",
+			"CARD": "Under Construction",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10003",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC2.jpg"
@@ -28,7 +28,7 @@
 		{
 			"ID": 4,
 			"URL": "",
-			"CARD": "NBC 16",
+			"CARD": "Under Construction",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10004",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC3.jpg"
