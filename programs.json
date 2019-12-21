@@ -4,7 +4,7 @@
 		{
 			"ID": 1,
 			"URL": "",
-			"CARD": "FOX KLSR",
+			"CARD": "ABC Under Construction",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10003",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/FOX.jpg"
@@ -12,15 +12,15 @@
 		{
 			"ID": 2,
 			"URL": "",
-			"CARD": "Under Construction",
+			"CARD": "FOX KLSR",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC1.jpg"
+			"REMOTE_URL": "udp://@225.1.1.11:10003",
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC2.jpg"
 		},
 		{
 			"ID": 3,
 			"URL": "",
-			"CARD": "Under Construction",
+			"CARD": "CBS Under Construction",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC2.jpg"
@@ -28,10 +28,10 @@
 		{
 			"ID": 4,
 			"URL": "",
-			"CARD": "Under Construction",
+			"CARD": "NBC Under Construction",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC3.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC2.jpg"
 		}
         
     			]
