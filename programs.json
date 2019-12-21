@@ -14,7 +14,7 @@
 			"URL": "",
 			"CARD": "Under Construction",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10002",
+			"REMOTE_URL": "",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC1.jpg"
 		},
 		{
@@ -22,7 +22,7 @@
 			"URL": "",
 			"CARD": "Under Construction",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10003",
+			"REMOTE_URL": "",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC2.jpg"
 		},
 		{
@@ -30,7 +30,7 @@
 			"URL": "",
 			"CARD": "Under Construction",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10004",
+			"REMOTE_URL": "",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC3.jpg"
 		}
         
