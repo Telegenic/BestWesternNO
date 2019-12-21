@@ -12,15 +12,15 @@
 		{
 			"ID": 2,
 			"URL": "",
-			"CARD": "Oregon Public Broadcasting",
+			"CARD": "CBS Under Construction",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10003",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/KEET.jpg"
+			"REMOTE_URL": "",
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC2.jpg"
 		},
 		{
 			"ID": 3,
 			"URL": "",
-			"CARD": "CBS Under Construction",
+			"CARD": "FOX Under Construction",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC2.jpg"
