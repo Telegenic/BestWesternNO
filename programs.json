@@ -14,24 +14,24 @@
 			"URL": "",
 			"CARD": "CBS14",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10004",
+			"REMOTE_URL": "udp://@225.1.1.11:10002",
 			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/CBS.jpg"
 		},
 		{
 			"ID": 3,
 			"URL": "",
-			"CARD": "NBC 16",
+			"CARD": "FOX KLSR",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10007",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/NBC.jpg"
+			"REMOTE_URL": "udp://@225.1.1.11:10003",
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/FOX.jpg"
 		},
 		{
 			"ID": 4,
 			"URL": "",
-			"CARD": "FOX KLSR",
+			"CARD": "NBC 16",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10015",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/FOX.jpg"
+			"REMOTE_URL": "udp://@225.1.1.11:10004",
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/NBC.jpg"
 		}
         
     			]
