@@ -6,8 +6,8 @@
 			"URL": "",
 			"CARD": "ABC KEZI",
 			"LOCAL_URL": "",
-			"REMOTE_URL": "udp://@225.1.1.11:10001",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/ABC.jpg"
+			"REMOTE_URL": "udp://@225.1.1.11:10003",
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/FOX.jpg"
 		},
 		{
 			"ID": 2,
@@ -15,7 +15,7 @@
 			"CARD": "CBS14",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10002",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/CBS.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC1.jpg"
 		},
 		{
 			"ID": 3,
@@ -23,7 +23,7 @@
 			"CARD": "FOX KLSR",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10003",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/FOX.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC2.jpg"
 		},
 		{
 			"ID": 4,
@@ -31,7 +31,7 @@
 			"CARD": "NBC 16",
 			"LOCAL_URL": "",
 			"REMOTE_URL": "udp://@225.1.1.11:10004",
-			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/NBC.jpg"
+			"THUMBNAIL": "https://raw.githubusercontent.com/Telegenic/BestWesternNO/master/UC3.jpg"
 		}
         
     			]
